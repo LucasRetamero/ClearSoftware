@@ -55,7 +55,7 @@
         </div>
         <div class="col-md-4">
           <h4 class="text-uppercase mb-4"><!-- text --></h4>
-          <a href="#contact"><button type="button" class="btn btn-primary btn-xl" id="sendMessageButton">Fazer orçamento</button></a>
+          <a href="{{ url('/#contact') }}"><button type="button" class="btn btn-primary btn-xl" id="sendMessageButton">Fazer orçamento</button></a>
         </div>
       </div>
     </div>

@@ -12,6 +12,6 @@ class listaController extends Controller
 	}
 	
 	public function procuraPolitico(){
-	return view('produtos.procuraPolitico');	
+	return view('produtos.lista.procuraPolitico');	
 	}
 }

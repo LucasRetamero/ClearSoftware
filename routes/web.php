@@ -15,6 +15,14 @@ Route::group(['namespace'=>'Produto','prefix'=>'produtos'],function(){
 Route::any('/procuraPolitico','listaController@procuraPolitico')->name('produto.procurapolitico');	
 });
 
+Route::get('/#portfolio',function(){
+   return view(principal);	
+});
+
+Route::get('/#contact',function(){
+   return view('principal');	
+});
+
 Route::get('/', function () {
     return view('principal');
 });

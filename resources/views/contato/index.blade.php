@@ -38,7 +38,7 @@
             <br>
             <div id="success"></div>
             <div class="form-group">
-              <button type="submit" class="btn btn-primary btn-xl" id="sendMessageButton">Enviar orçamento</button>
+              <button type="submit" class="btn btn-primary btn-xl" id="sendMessageButton">Enviar</button>
             </div>
           </form>
         </div>

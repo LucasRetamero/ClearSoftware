@@ -6,9 +6,9 @@
 </head>
 <body>
 <!-- nav -->
-@include('nav.index')
+@include('produtos.nav.index')
 <!-- section -->
-<div class="container">
+<div class="container" id="conteudo">
 @yield('conteudo')
 </div>
 <!-- footer -->
