@@ -1,7 +1,5 @@
-## About Laravel
-
-Criado usando o framework Laravel!
-
+## Basic
+Created with BootStrap + Laravel
 ### Preview
 ![Image of Yaktocat](https://github.com/LucasRetamero/ClearSoftware/blob/master/public/img/portfolio/ExibitionOn.png)
 ![Image of Yaktocat](https://github.com/LucasRetamero/ClearSoftware/blob/master/public/img/portfolio/ExibitionTwo.png)
